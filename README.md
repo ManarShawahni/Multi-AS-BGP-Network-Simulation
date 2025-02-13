@@ -23,11 +23,9 @@ The objective includes:
 📂 Multi_AS_BGP_Project
 │── 📝 README.md (This file)
 │── 📝 Report.pdf (Detailed analysis and discussion)
-│── 📝 BGP_Project_Description.pdf (Assignment instructions and requirements)
+│── 📝 BGP_Project_Description.docx (Assignment instructions and requirements)
 │── 📁 Configurations (Router and topology configurations)
-│    │── 📝 Initial_Configuration.txt
-│    │── 📝 BGP_Config.txt
-│    │── 📝 Traffic_Engineering.txt
+│    │── 🖼️ GNS3+import+ios+image.png
 │── 📁 GNS3_Project (GNS3 simulation files)
 │    │── 📝 BgpProject.gns3project (Topology file)
 ```
