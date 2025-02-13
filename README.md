@@ -26,8 +26,6 @@ The objective includes:
 │── 📝 README.md (This file)
 │── 📝 Report.pdf (Detailed analysis and discussion)
 │── 📝 BGP_Project_Description.docx (Assignment instructions and requirements)
-│── 📁 Configurations (Router and topology configurations)
-│    │── 🖼️ GNS3+import+ios+image.png
 │── 📁 GNS3_Project (GNS3 simulation files)
 │    │── 📝 BgpProject.gns3project (Topology file)
 ```
@@ -55,7 +53,7 @@ Each AS runs **its own internal routing protocol**, and **BGP** is used for inte
 
 📌 **Download GNS3:** [GNS3 Official Download](https://www.gns3.com/software/download)  
 📌 **Cisco 3725 IOS Image:** [Download Router IOS](https://drive.google.com/file/d/1nkmoPEpnq-h-yPTBXmQKfPQUEqGA6ZHz/view)  
-📌 **Tutorial: How to import IOS into GNS3:** [YouTube Guide](https://www.youtube.com/watch?v=nBw4lsxE0-s)  
+📌 **Tutorial: How to import IOS into GNS3:** [[[YouTube Guide](https://www.youtube.com/watch?v=nBw4lsxE0-s)  ](https://www.youtube.com/watch?v=xs-nDwBw2do)](https://www.youtube.com/watch?v=dWlGXPJDSvw) 
 
 ---
 
@@ -68,8 +66,8 @@ git clone https://github.com/ManarShawahni/BGP_Network_Project.git
 2️⃣ **Open the topology in GNS3.**  
 - Load `BgpProject.gns3project` in **GNS3**.
 - Start all routers and verify neighbor relationships.
-
-3️⃣ **Verify network connectivity.**  
+  
+3️⃣  **Verify network connectivity.**  
 ```bash
 ping 10.86.3.1
 traceroute 192.168.5.2
