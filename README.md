@@ -27,7 +27,7 @@ The objective includes:
 │── 📝 Report.pdf (Detailed analysis and discussion)
 │── 📝 BGP_Project_Description.docx (Assignment instructions and requirements)
 │── 📁 GNS3_Project (GNS3 simulation files)
-│    │── 📝 BgpProject.gns3project (Topology file)
+│    │── 📝 BgpProject.txt (Contains Topology file)
 ```
 
 ---
