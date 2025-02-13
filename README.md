@@ -16,6 +16,8 @@ The objective includes:
 ✔️ **Testing redundancy by simulating link failures and automatic rerouting.**  
 ✔️ **Monitoring and troubleshooting BGP sessions using debugging commands.**  
 
+📌 **See the report for multiple scenarios and a detailed explanation of everything done.**
+
 ---
 
 ## 📂 **Repository Structure**
@@ -49,8 +51,7 @@ Each AS runs **its own internal routing protocol**, and **BGP** is used for inte
 
 ## 🛠️ **Tools Used**
 ✅ **GNS3** (Network Simulation)  
-✅ **Cisco 3725 Router IOS** (For real-world routing scenarios)  
-✅ **Packet Tracer** (Network topology design & validation)  
+✅ **Cisco 3725 Router IOS** (For real-world routing scenarios)   
 
 📌 **Download GNS3:** [GNS3 Official Download](https://www.gns3.com/software/download)  
 📌 **Cisco 3725 IOS Image:** [Download Router IOS](https://drive.google.com/file/d/1nkmoPEpnq-h-yPTBXmQKfPQUEqGA6ZHz/view)  
